@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.coverage
+.pytest_cache/
+
+# Environments
+venv/
+.env
+.env.*
+
+# Data and uploads
+data/
+uploads/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+*.log
